@@ -110,18 +110,15 @@ Currently at the University of York as part of the DeepMind Research Ready Inter
 </table>
 
 ---
-
-<!-- SECTION 6: GITHUB STATS -->
-<!-- Auto-updating stats cards — streak, top languages, contributions -->
-
+<!--
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dami28O&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dami28O&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues&rank_icon=github" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dami28O&layout=compact&theme=nord&hide_border=true" height="165" />
 </div>
 
----
+--- -->
 
 <!-- SECTION 7: CONNECT -->
 <!-- Clean links — portfolio, LinkedIn, email. Make it easy to reach you. -->
