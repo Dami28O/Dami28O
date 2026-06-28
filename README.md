@@ -78,7 +78,8 @@ Currently at the University of York as part of the DeepMind Research Ready Inter
 <!-- SECTION 4: PROJECT SPOTLIGHT -->
 <!-- 2–3 signature projects in your own words. Not repo descriptions — a sentence on what it is and why it matters. -->
 
-### Things I've built
+### Favourite things I've built
+
 
 <table>
   <tr>
@@ -99,7 +100,12 @@ Currently at the University of York as part of the DeepMind Research Ready Inter
   <tr>
     <td><strong><a href="https://github.com/Dami28O/ASL-Translator">ASL Translator</a></strong></td>
     <td>Real-time American Sign Language fingerspelling recognition using MediaPipe hand landmarks and a custom MLP — 94% accuracy across 28 gesture classes. Inspired by DeepMind's Project Euphonia.</td>
-    <td>Bridges the communication gap between deaf and hearing individuals.</td>
+    <td>Deaf individuals navigate a hearing world with few real-time communication tools. This puts translation within reach in the places it matters most — hospitals, government offices, everyday life.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/jalliet/spotlight">Spotlight</a></strong></td>
+    <td>Winner of Google's BGN Hackathon 2024 (Main Prize + People's Choice). A web app that uses Google Vision and Gemini to identify everyday objects and surface the Afro-Caribbean inventors behind them — built in a team of five.</td>
+    <td>So many inventions and contributions by people of African descent and from other underrepresnted communities are often overlooked, we just wanted to bring them to light.</td>
   </tr>
 </table>
 
